@@ -1,0 +1,8 @@
+body {
+    background-image: url(https://image.freepik.com/foto-gratis/fondo-arte-abstracto-color-verde-claro-amarillo_113767-1205.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
